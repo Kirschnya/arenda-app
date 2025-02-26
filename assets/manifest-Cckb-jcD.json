@@ -3,7 +3,7 @@
     "short_name": "arenda-app",
     "start_url": "/arenda-app/",
     "display": "standalone",
-    "background_color": "#000003",
+    "background_color": "#ff0003",
     "theme_color": "#00001a",
     "orientation": "portrait-primary",
     "icons": [
