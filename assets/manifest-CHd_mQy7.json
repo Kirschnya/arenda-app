@@ -8,13 +8,13 @@
     "orientation": "portrait-primary",
     "icons": [
         {
-            "src": "/arenda-app/icon2.png",
+            "src": "/arenda-app/icon.png",
             "type": "image/png",
             "sizes": "1024x1024",
             "purpose": "any"
         },
         {
-            "src": "/arenda-app/icon2.png",
+            "src": "/arenda-app/icon.png",
             "type": "image/png",
             "sizes": "1024x1024",
             "purpose": "maskable"
